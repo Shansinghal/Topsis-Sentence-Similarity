@@ -1,9 +1,0 @@
-## Results
-
-Based on TOPSIS analysis, the ranking of sentence similarity models is as follows:
-
-1. Sentence-BERT (all-mpnet-base-v2)
-2. Sentence-BERT (all-MiniLM-L6-v2)
-3. Universal Sentence Encoder
-4. DistilBERT
-5. RoBERTa
