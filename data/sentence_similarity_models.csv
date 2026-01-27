@@ -1,0 +1,6 @@
+Model,STS Score,Inference Time (ms),Model Size (MB),Embedding Dim
+MiniLM,0.83,18,90,384
+MPNet,0.86,32,420,768
+USE,0.82,25,250,512
+DistilBERT,0.79,20,260,768
+RoBERTa,0.85,40,500,1024
