@@ -34,7 +34,6 @@ To rank pre-trained sentence similarity models by balancing accuracy, efficiency
 ## Dataset
 
 The decision matrix is stored in:
-
 data/sentence_similarity_models.csv
 
 Each row represents a model and each column represents an evaluation criterion.
